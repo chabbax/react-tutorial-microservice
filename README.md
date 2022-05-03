@@ -5,6 +5,8 @@
 ## Project Overview :globe_with_meridians:	
 In this project we will create 2 microservices with a aggregator service which combines data from the two microservice and displays it in a meaningful manner. We will be using `spring boot` as our backend and `reactJS` as our frontend. Note: Both microservices would havee 2 different types of databases, MongoDb and MySQL.
 
+**About** : in the first microservice is basically a task management tool where taks can be created, read, updateed and deleted. The tasks can have a title, description as well as a status toggle to either publish the task or not publish. The second microservice is in progress .............
+
 ## Prerequisites :white_check_mark:
 - [x] Installation of NodeJS - https://nodejs.org/en/download/
 - [x] Installation of Yarn locally - https://classic.yarnpkg.com/lang/en/docs/install/#windows-stable
