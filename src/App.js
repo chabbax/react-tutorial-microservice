@@ -12,7 +12,7 @@ function App() {
     <Router>
       <nav className="navbar navbar-expand navbar-dark bg-dark">
         <a href="/tutorials" className="navbar-brand">
-          bezKoder
+          Pearson KT
         </a>
         <div className="navbar-nav mr-auto">
           <li className="nav-item">
@@ -22,7 +22,7 @@ function App() {
           </li>
           <li className="nav-item">
             <Link to={"/add"} className="nav-link">
-              Add
+              Create KT
             </Link>
           </li>
         </div>
