@@ -18,8 +18,8 @@ In this project we will create 2 microservices with a aggregator service which c
 ```
 
 ## Backend Repository :house_with_garden:
-Microservice 1 : https://github.com/Chabbax/spring-tutorial-microservice.git
-Microservice 2 : In-progress
+- Microservice 1 : https://github.com/Chabbax/spring-tutorial-microservice.git
+- Microservice 2 : In-progress
 
 ## Internal Architectural Diagrams
 ![frame2](img/frame2.png)
